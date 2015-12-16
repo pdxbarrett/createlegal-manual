@@ -1,8 +1,8 @@
 # Summary
 
 * [Typography](typography.md)
-* [Style](style.md)
 * [Principles](principles.md)
    * Service
+* [Style](style.md)
 * [Writing & Communications](writing_&_communications.md)
 
