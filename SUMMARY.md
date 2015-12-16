@@ -2,5 +2,5 @@
 
 * [Typography](typography.md)
 * [Style](style.md)
-* Principles
+* [Principles](principles.md)
 
