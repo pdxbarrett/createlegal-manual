@@ -1,5 +1,5 @@
 # Summary
 
 * [Typography](typography.md)
-* Style
+* [Style](style.md)
 
