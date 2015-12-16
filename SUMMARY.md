@@ -1,4 +1,4 @@
 # Summary
 
-* Typography
+* [Typography](typography.md)
 
